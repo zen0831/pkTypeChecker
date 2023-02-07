@@ -18,7 +18,7 @@ VERSION += "_" + datetime.datetime.now().strftime('%Y%m%d%H%M')[2:]
 
 setup(
     # Metadata
-    name='pktype',
+    name='pkTypeCheker',
     version=VERSION,
     author='roa0831',
     author_email='',
