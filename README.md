@@ -1,2 +1,2 @@
 # pkTypeChecker
-for python , created by roa
+ポケモンのタイプ相性を確認する為のライブラリです
