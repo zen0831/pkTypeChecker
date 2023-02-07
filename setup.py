@@ -14,7 +14,7 @@ VERSION = '0.0.1'
 # commit_hash = subprocess.check_output("git rev-parse HEAD", shell=True).decode('UTF-8').rstrip()
 # VERSION += "_" + str(int(commit_hash, 16))[:8]
 VERSION += "_" + datetime.datetime.now().strftime('%Y%m%d%H%M')[2:]
-# print(VERSION)
+# print(VERSION) 
 
 setup(
     # Metadata
