@@ -1,5 +1,8 @@
 class Pktype():
 
-  def type_check(type1,type2):
-    a = type1+'？？'+type2
-    return a+"🥰ああ"
+    def tcheck(x,y):
+      a = str(x)+str(y)
+      return a+"テスト1"
+  
+    def pcheck(n):
+      b = str(n)+"テスト2"

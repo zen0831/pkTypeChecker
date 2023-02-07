@@ -1,2 +1,3 @@
-from .pokemon_type import Pktype
-#from pytype.type_file import *
+from .pokemon_type import *
+
+__version__ = '0.0.8'
