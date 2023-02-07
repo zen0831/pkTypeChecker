@@ -23,7 +23,7 @@ setup(
     author='roa0831',
     author_email='',
     url='https://twitter.com/qr1x_while :',
-    description='ポケモンのタイプ相性を確認するライブラリです',
+    description='A library for checking Pokemon type compatibility',
     long_description=readme,
     long_description_content_type='text/markdown',
     license='MIT',
