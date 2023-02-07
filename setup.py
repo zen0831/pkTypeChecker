@@ -25,7 +25,7 @@ setup(
     url='https://twitter.com/qr1x_while :',
     description='ポケモンのタイプ相性を確認するライブラリです',
     long_description=readme,
-    long_description_content_type='text/markdown',"
+    long_description_content_type='text/markdown',
     license='MIT',
 
     # Package info
